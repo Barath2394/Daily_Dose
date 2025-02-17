@@ -1,6 +1,5 @@
-package com.Barath.AdvancedDS.Recursion.BackTracking;
 import java.util.*;
-public class Rat_In_A_Maze {
+public class Main {
     public static void main(String[] args) {
         int[][] arr = {{1,0,0,0},
                        {1,1,0,0},
