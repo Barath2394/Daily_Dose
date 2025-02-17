@@ -1,6 +1,4 @@
-package com.Barath.AdvancedDS.Recursion;
-
-public class SubSetSum {
+public class Main {
     public static void main(String[] args) {
         int[] arr = {10,20,15,5};
         System.out.println(countSubSets(arr,25,0));
