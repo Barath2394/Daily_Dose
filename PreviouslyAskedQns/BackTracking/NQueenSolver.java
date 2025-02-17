@@ -1,6 +1,5 @@
-package com.Barath.AdvancedDS.Recursion.BackTracking;
 import java.util.*;
-public class NQueenSolver {
+public class Main {
     public static void main(String[] args) {
         int n = 4;
         List<List<String>> solutions = nQueenSolver(4);
